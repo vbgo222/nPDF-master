@@ -1,0 +1,8 @@
+*.o
+*.tns
+*.elf
+.kdev*
+*.kdev4
+*~
+.*.sw*
+.ycm*
